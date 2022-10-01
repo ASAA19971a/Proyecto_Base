@@ -8,7 +8,7 @@ window.addEventListener("load", () => {
 
 // EFECTO MAQUINA ESCRIBIR
 const typed = new Typed(".typed", {
-  strings: ["Programador", "Desarrollador Web", "Soporte Técnico"],
+  strings: ["Programador", "Desarrollador Web"],
 
   //stringsElement: '#cadenas-texto', // ID del elemento que contiene cadenas de texto a mostrar.
   typeSpeed: 75, // Velocidad en mlisegundos para poner una letra,

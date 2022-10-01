@@ -1,13 +1,23 @@
 # Proyecto Base
 
-###  Github
+### Github
 
 - Clonar repositorio
+
 ```sh
     git clone
 ```
+
+### Npm
+
+```sh
+    npm install
+```
+
 ### Gulp
+
 Para ejecutar gulp
+
 ```sh
     gulp dev
 ```
